@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "574acda48cfba8aae6f8900bb262e3de",
+    "revision": "6b88bf796700263057493e6a4eeaf836",
     "url": "/coolbots/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/coolbots/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "223e5e620fceac1ff014",
-    "url": "/coolbots/static/css/main.6b52be78.chunk.css"
+    "revision": "2225d88a20170593c113",
+    "url": "/coolbots/static/css/main.9093fc7b.chunk.css"
   },
   {
     "revision": "82144ecc970dc7f09142",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/coolbots/static/js/2.d398c6c7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "223e5e620fceac1ff014",
-    "url": "/coolbots/static/js/main.155b0734.chunk.js"
+    "revision": "2225d88a20170593c113",
+    "url": "/coolbots/static/js/main.4b9b484b.chunk.js"
   },
   {
     "revision": "57588ff0de8099aa055e",
