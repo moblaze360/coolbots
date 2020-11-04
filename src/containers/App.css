@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'SEGA LOGO FONT';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SEGA LOGO FONT'), url('SEGA.woff') format('woff');
+    }
+
+    @font-face {
+        font-family: 'New SuperMan Regular';
+        font-style: normal;
+        font-weight: normal;
+        src: local('New SuperMan Regular'), url('NewSuperman-Pzd7.woff') format('woff');
+        }
+
+ @font-face {
+            font-family: 'BatmanForeverOutline';
+            font-style: normal;
+            font-weight: normal;
+            src: local('BatmanForeverOutline'), url('batmfo__.woff') format('woff');
+            }
+            
+            
+            @font-face {
+            font-family: 'BatmanForeverAlternate';
+            font-style: normal;
+            font-weight: normal;
+            src: local('BatmanForeverAlternate'), url('batmfa__.woff') format('woff');
+            }
+
+    h1 {
+        font-family: New SuperMan Regular;
+        font-weight: 200;
+        color: lightgreen;
+    }
+    
+    h2 {
+        font-family: 'New SuperMan Regular';
+        font-weight: 200;
+        color: green;
+    }
